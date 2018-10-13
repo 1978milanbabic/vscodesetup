@@ -1,0 +1,34 @@
+body, html {
+    width: 100%;
+    margin: 0;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+p, h1, h2, h3, h4, h5 {
+    margin: 0;
+}
+
+a {
+    color: initial;
+    text-decoration: none;
+}
+
+a, span, i, div, img {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -webkit-user-drag: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+    user-drag: none;
+}
+
+img {
+    vertical-align: bottom;
+}
+/*# sourceMappingURL=main.css.map */

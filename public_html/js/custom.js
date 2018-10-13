@@ -1,0 +1,1 @@
+!function(n,o,u){u(o).ready(function(){}),u(n).load(function(){})}(window,document,jQuery);
